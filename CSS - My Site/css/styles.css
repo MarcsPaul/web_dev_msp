@@ -35,6 +35,7 @@ hr{
   border-bottom: none;
   width:4%;
   margin: 100px auto;
+  clear: both;
 }
 
 a{
@@ -116,7 +117,9 @@ a:hover{
   float: left;
   margin-right: 30px;
 }
-
+.photography-description{
+  clear: left;
+}
 .pic-photography{
   border-radius: 100%;
   width:25%;
